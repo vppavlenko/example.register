@@ -1,0 +1,24 @@
+<?php
+$MESS["REPORT_LIST_TITLE"] = "Список отчетов";
+$MESS["REPORT_LIST_H1"] = "Отчёты, консилиумы";
+$MESS["ELEMENT_NONE_TEXT"] = "Данные отсутствуют";
+$MESS["COL_DOCUMENT_NAME"] = "Название документа";
+$MESS["COL_DOCUMENT_TYPE"] = "Тип документа";
+$MESS["COL_DOCUMENT_FORMAT"] = "Формат";
+$MESS["COL_DOCUMENT_SIZE"] = "Размер";
+$MESS["COL_DOCUMENT_DATE"] = "Дата / время";
+$MESS["ALL"] = "Все";
+$MESS["ELEMENT_NONE"] = "Отчеты не найдены";
+$MESS["DELETE_FILTER"] = "Сбросить фильтр";
+$MESS["DOCUMENT_SIZE_MEASURE"] = "мб";
+$MESS["SELECT_REPORTS"] = "Выбрано документов: 1";
+$MESS["BUTTON_DELETE"] = "Удалить";
+$MESS["BUTTON_DOWNLOAD"] = "Скачивание отчета/консилиума";
+$MESS["CLOSE"] = "Отмена";
+$MESS["CLOSE_DOWNLOAD"] = "Закрыть";
+$MESS["REMOVE"] = "Удалить";
+$MESS["DOWNLOAD"] = "Скачать";
+$MESS["MODAL_TITLE_REMOVE"] = "Удаление отчетов";
+$MESS["MODAL_TEXT_REMOVE"] = "Вы уверены, что хотите удалить отчеты? Выбрано элементов: ";
+$MESS["MODAL_TITLE_DOWNLOAD"] = "Скачивание отчетов/консилиумов";
+$MESS["MODAL_TEXT_DOWNLOAD"] = "Сформирован архив документов. Выбрано элементов: ";
